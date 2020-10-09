@@ -1,0 +1,10 @@
+[![Граф и алгоритмы](https://i9.ytimg.com/vi/-QchTUywbpQ/maxresdefault_live.jpg?time=1602261000000&sqp=CIiggvwF&rs=AOn4CLDGqI1rMQKl2yBgxtgV0zxZc8PbrQ)](https://youtu.be/-QchTUywbpQ)
+
+![0](0.png)
+![1](1.png)
+![2](2.png)
+![3](3.png)
+![4](4.png)
+![5](5.png)
+![6](6.png)
+![7](7.png)
